@@ -1,0 +1,86 @@
+
+html,body{
+  overflow-x: hidden;
+  width: 100%;
+  padding: 0 10px 10px 0;
+}
+
+img{
+  width: 200px;
+  height: 120px;
+  float: left;
+  padding: 0 10px 10px 0;
+}
+
+.header{
+  margin: 40px 10px 40px 10px;
+
+}
+.image{
+  width: 150px;
+  height: 50px;
+  margin: 3px 20px 0px 20px;
+}
+.container{
+  display: block;
+  margin: 10px 10px 10px 10px;
+}
+
+h1{
+  font-family: Kruglik;
+  font-size: 24px;
+  font-style: italic;
+}
+
+h2{
+  font-family: Kruglik;
+  font-size: 18px;
+}
+
+.main{
+  width: 900px;
+  background-color: rgb(164, 153, 164);
+  padding: 10px 10px 10px 10px;
+  text-align: justify;
+}
+
+.main_2{
+  width: 900px;
+  background-color: rgb(238, 205, 238);
+  padding: 10px 10px 10px 10px;
+  text-align: justify;
+ }
+
+.sidebar{
+  width: 300px;
+  float: right;
+  background-color: rgb(233, 232, 173);
+  padding: 0 10px 10px 10px;
+  font-family: Kruglik;
+
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding: 0 0 0 10px;
+}
+
+li{
+  padding: 0 30px 10px 30px;
+}
+
+.info{
+  width: 900px;
+  text-align: justify;
+  font-style: italic;
+  color: brown;
+  margin: 10px 10px 10px 10px;
+}
+
+.footer{
+  width: 900px;
+  text-align: justify;
+  margin: 10px 10px 10px 10px;
+}
